@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: Henry Leonardo Talavera Velasquez
+Curso: DAW1
+Fecha: 17/03/2025
+Ejercicio: Ejercicio 2
+-->
+<hechos-historicos>
+    <!-- Definición de un hecho historico -->
+    <hecho-historico descripcion="IBM da a conocer el PC.">
+        <fecha>
+            <dia>12</dia>
+            <mes>8</mes>
+            <anio>1981</anio>
+        </fecha>
+    </hecho-historico>
+    <!-- Definición de un hecho historico -->
+    <hecho-historico descripcion="Se funda Google.">
+        <fecha>
+            <dia>4</dia>
+            <mes>9</mes>
+            <anio>1998</anio>
+        </fecha>
+    </hecho-historico>
+    <!-- Definición de un hecho historico -->
+    <hecho-historico descripcion="Se funda Facebook.">
+        <fecha>
+            <dia>4</dia>
+            <mes>2</mes>
+            <anio>2004</anio>
+        </fecha>
+    </hecho-historico>
+</hechos-historicos>
