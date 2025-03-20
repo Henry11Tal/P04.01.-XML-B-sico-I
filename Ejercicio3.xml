@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: Henry Leonardo Talavera Velasquez
+Curso: DAW1
+Fecha: 17/03/2025
+Ejercicio: Ejercicio 3
+-->
+<libros>
+    <!-- Definición de un libro -->
+    <libro titulo="Don Quijote De La Mancha" autor="Miguel De Cervantes" anio-publicacion="1605"></libro>
+    <!-- Definición de un libro -->
+    <libro titulo="Selva" autor="Rudyard Kipling" anio-publicacion="1894"></libro>
+    <!-- Definición de un libro -->
+    <libro titulo="Mushoku Tensei Volumen 8" autor="Rifujin na Magonote" anio-publicacion="2020"></libro>
+</libros>
